@@ -40,7 +40,7 @@ const App =()=> {
           {/*<hr/>*/}
           {/*{visible && <Info/>}*/}
           {/*<Info></Info>*/}
-          {/*<Average/>*/}
+          <Average/>
           {/*<Counter fixedNumber={2}/>*/}
           {/*<MyComponent name={'청이'} favoriteNumber={1}>리액트</MyComponent>*/}
           {/*<MyComponentClass name={'청이'} favoriteNumber={1}>리액트</MyComponentClass>*/}
